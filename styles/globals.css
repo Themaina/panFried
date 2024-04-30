@@ -168,7 +168,7 @@ body {
 .product-specifications ul li::before{
   content: "\2713";
   display: inline-block;
-  color:#FCBF49;
+  color:#000000;
   font-weight: bold;
   border-radius: 50%;
   text-align: center;
@@ -295,7 +295,7 @@ body {
   height: 4px !important;
 }
 .bank-info-alert::-webkit-scrollbar-thumb {
-  background: #FCBF49;
+  background: #000000;
 }
 .bank-info-alert::-webkit-scrollbar-track {
   background: #f1f1f1;

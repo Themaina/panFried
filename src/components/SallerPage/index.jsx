@@ -110,7 +110,7 @@ export default function SallerPage() {
                         />
                       </svg>
                     </span>
-                    <span>023 434 54354</span>
+                    <span>+254 797-049-888</span>
                   </li>
                   <li className="text-black flex space-x-5 items-center leading-9 text-base font-normal">
                     <span>
@@ -127,13 +127,15 @@ export default function SallerPage() {
                         />
                       </svg>
                     </span>
-                    <span>Haydarabad, Rord 3,Dhaka</span>
+                    <span>
+                      Kahawa Sukari,Kiambu,Kenya
+                    </span>
                   </li>
                 </ul>
               </div>
 
               <div className="saller-name lg:block hidden">
-                <h1 className="text-[60px] font-bold">Quomodosoft</h1>
+                <h1 className="text-[60px] font-bold">Crosstech.ke</h1>
                 <div className="flex justify-center">
                   <div className="flex">
                     <Star w="30" h="30" />
@@ -160,7 +162,7 @@ export default function SallerPage() {
                 </div>
                 <div className="flex sm:justify-center justify-start">
                   <span className="text-[30px] font-medium text-center">
-                    Quomodosoft
+                    Crosstech.ke
                   </span>
                 </div>
               </div>

@@ -114,7 +114,7 @@ export default function SearchBox({ className }) {
                 <rect
                   x="9.18359"
                   y="0.90918"
-                  width="5.78538"
+                  width="10.78538"
                   height="1.28564"
                   transform="rotate(135 9.18359 0.90918)"
                   fill="#8E8E8E"
